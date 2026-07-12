@@ -8,7 +8,7 @@ The project was built with Claude Science by an electrical-engineering researche
 
 ## Read the paper
 
-The compiled article is at [`paper/PerturbationPSF_submission.pdf`](paper/PerturbationPSF_submission.pdf). LaTeX source is intentionally excluded from this submission repository.
+The compiled article is [`here`](PerturbationPSF_Writeup.pdf). LaTeX source is intentionally excluded from this submission repository.
 
 ## Repository contents
 
