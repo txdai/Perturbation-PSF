@@ -1,0 +1,3 @@
+outcome,estimate,t_observed,p_wild,bootstrap_reps,n_sources,q_wild
+program_a,-0.10954870560141729,-0.8850936846468453,0.37,99,60,0.37
+program_b,-0.1305718840123558,-1.054362885171939,0.32,99,60,0.37

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "perturbation-psf"
+version = "0.1.0"
+description = "Source-aware calibration audit for sparse spatial perturbation screens"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "scipy>=1.11",
+  "pyarrow>=14",
+  "matplotlib>=3.8",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

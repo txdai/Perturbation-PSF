@@ -1,0 +1,81 @@
+dropped,perturbation,program,wild_p,n_src
+none(all 3),lrrk2,Synaptic_signaling,0.5405,28
+none(all 3),lrrk2,Calcium_homeostasis,0.461,28
+none(all 3),lrrk2,Neuroinflammation,0.6315,28
+none(all 3),lrrk2,Interferon_response,0.8815,28
+none(all 3),lrrk2,Microglial_activation,0.348,28
+none(all 3),lrrk2,Astrocyte_reactivity,0.0945,28
+none(all 3),lrrk2,ECM,0.3015,28
+none(all 3),lrrk2,Endolysosomal,0.4645,28
+none(all 3),lrrk2,Mitochondrial_stress,0.576,28
+none(all 3),lrrk2,LRP1_signaling,0.7395,28
+none(all 3),Cfap410,Synaptic_signaling,0.461,51
+none(all 3),Cfap410,Calcium_homeostasis,0.747,51
+none(all 3),Cfap410,Neuroinflammation,0.631,51
+none(all 3),Cfap410,Interferon_response,0.5485,51
+none(all 3),Cfap410,Microglial_activation,0.276,51
+none(all 3),Cfap410,Astrocyte_reactivity,0.569,51
+none(all 3),Cfap410,ECM,0.934,51
+none(all 3),Cfap410,Endolysosomal,0.9165,51
+none(all 3),Cfap410,Mitochondrial_stress,0.59,51
+none(all 3),Cfap410,LRP1_signaling,0.793,51
+Mouse1,lrrk2,Synaptic_signaling,0.596,26
+Mouse1,lrrk2,Calcium_homeostasis,0.553,26
+Mouse1,lrrk2,Neuroinflammation,0.563,26
+Mouse1,lrrk2,Interferon_response,0.888,26
+Mouse1,lrrk2,Microglial_activation,0.4545,26
+Mouse1,lrrk2,Astrocyte_reactivity,0.165,26
+Mouse1,lrrk2,ECM,0.1805,26
+Mouse1,lrrk2,Endolysosomal,0.4215,26
+Mouse1,lrrk2,Mitochondrial_stress,0.7225,26
+Mouse1,lrrk2,LRP1_signaling,0.9815,26
+Mouse1,Cfap410,Synaptic_signaling,0.343,50
+Mouse1,Cfap410,Calcium_homeostasis,0.7295,50
+Mouse1,Cfap410,Neuroinflammation,0.5955,50
+Mouse1,Cfap410,Interferon_response,0.609,50
+Mouse1,Cfap410,Microglial_activation,0.261,50
+Mouse1,Cfap410,Astrocyte_reactivity,0.464,50
+Mouse1,Cfap410,ECM,0.816,50
+Mouse1,Cfap410,Endolysosomal,0.7885,50
+Mouse1,Cfap410,Mitochondrial_stress,0.7165,50
+Mouse1,Cfap410,LRP1_signaling,0.7545,50
+Mouse2,lrrk2,Synaptic_signaling,0.6185,5
+Mouse2,lrrk2,Calcium_homeostasis,0.634,5
+Mouse2,lrrk2,Neuroinflammation,0.333,5
+Mouse2,lrrk2,Interferon_response,0.5565,5
+Mouse2,lrrk2,Microglial_activation,0.1835,5
+Mouse2,lrrk2,Astrocyte_reactivity,0.266,5
+Mouse2,lrrk2,ECM,0.927,5
+Mouse2,lrrk2,Endolysosomal,0.7065,5
+Mouse2,lrrk2,Mitochondrial_stress,0.5515,5
+Mouse2,lrrk2,LRP1_signaling,0.251,5
+Mouse2,Cfap410,Synaptic_signaling,0.035,9
+Mouse2,Cfap410,Calcium_homeostasis,0.8205,9
+Mouse2,Cfap410,Neuroinflammation,0.203,9
+Mouse2,Cfap410,Interferon_response,0.745,9
+Mouse2,Cfap410,Microglial_activation,0.6885,9
+Mouse2,Cfap410,Astrocyte_reactivity,0.513,9
+Mouse2,Cfap410,ECM,0.057,9
+Mouse2,Cfap410,Endolysosomal,0.9375,9
+Mouse2,Cfap410,Mitochondrial_stress,0.016,9
+Mouse2,Cfap410,LRP1_signaling,0.0365,9
+Mouse3,lrrk2,Synaptic_signaling,0.601,25
+Mouse3,lrrk2,Calcium_homeostasis,0.2375,25
+Mouse3,lrrk2,Neuroinflammation,0.374,25
+Mouse3,lrrk2,Interferon_response,0.956,25
+Mouse3,lrrk2,Microglial_activation,0.386,25
+Mouse3,lrrk2,Astrocyte_reactivity,0.098,25
+Mouse3,lrrk2,ECM,0.4075,25
+Mouse3,lrrk2,Endolysosomal,0.4745,25
+Mouse3,lrrk2,Mitochondrial_stress,0.6115,25
+Mouse3,lrrk2,LRP1_signaling,0.623,25
+Mouse3,Cfap410,Synaptic_signaling,0.776,43
+Mouse3,Cfap410,Calcium_homeostasis,0.7315,43
+Mouse3,Cfap410,Neuroinflammation,0.881,43
+Mouse3,Cfap410,Interferon_response,0.539,43
+Mouse3,Cfap410,Microglial_activation,0.3495,43
+Mouse3,Cfap410,Astrocyte_reactivity,0.778,43
+Mouse3,Cfap410,ECM,0.7685,43
+Mouse3,Cfap410,Endolysosomal,0.711,43
+Mouse3,Cfap410,Mitochondrial_stress,0.782,43
+Mouse3,Cfap410,LRP1_signaling,0.508,43

@@ -1,0 +1,7 @@
+# Submission summary (200 words)
+
+Spatial Perturb-seq promises to reveal how an edited cell affects surrounding tissue. But are hundreds of neighbours hundreds of independent experiments? Perturbation PSF is a source-aware calibration audit built with Claude Science on a mouse-brain Stereo-seq dataset containing 229,775 cells.
+
+The decisive experiment keeps the biological comparison fixed and changes only the replication unit. Treating 24,453-31,189 source-recipient pairs as independent yields 16 of 20 nominal hits. Computing uncertainty at the 78 or 101 sources inflates standard errors 5.5-fold and eliminates every hit (0/20). Wild cluster bootstrap, source-label permutation, equal-source weighting, and leave-one-mouse-out analyses agree. Two Lrrk2 contrasts remain method-dependent, power-limited leads rather than findings.
+
+I approached this as an electrical engineer who knows statistics, not biomedical research. I supplied the PSF analogy, then reviewed every result. When 16/20 looked too precise, I challenged the independent unit. The source-level collapse made me push clustering and overlap harder. Reading those outputs exposed a testing-family problem; the corrected tables then led me to mouse balance, estimands, and leakage. Claude Science made biomedical literature, unfamiliar data, and an analysis executable while I directed the investigation. The result is a reusable calibration audit and evidence that outsiders with basic research skills can contribute across fields.
